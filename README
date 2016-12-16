@@ -1,0 +1,4 @@
+How to run the code-------( After installing clips shell)
+	1. Load the code--- command (load "filename.clp")
+	2. Reset it ---     command (reset)
+	3. Run the code---- command (run)
